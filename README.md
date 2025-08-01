@@ -2,7 +2,7 @@
 
 ## Overview
 
-This collection contains **10 hands-on Python tasks** designed for **intermediate learners** focusing on **Python dictionaries** with occasional use of **lists and tuples**.
+This collection contains **5 hands-on Python tasks** designed for **intermediate learners** focusing on **Python dictionaries** with occasional use of **lists and tuples**.
 Each task presents a **real-life scenario**, often inspired by **daily activities in Jos, Nigeria**, to help learners **apply dictionary operations logically**.
 
 These tasks **emphasize dictionary manipulations** including:
